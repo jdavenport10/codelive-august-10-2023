@@ -1,0 +1,6 @@
+*.json
+docs/*
+.ipynb_checkpoints/*
+codelive/*
+*.pyc
+**/__pycache__/

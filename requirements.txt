@@ -1,0 +1,5 @@
+jupyter
+fastapi
+numpy
+openai
+uvicorn[standard]
